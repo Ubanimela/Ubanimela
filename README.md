@@ -7,7 +7,7 @@ I'm passionate about Tech development, Cloud Engineering.
 
 My Learning journey haven't being easy for me but what keeps me going is my burning  desire to be successful.
 
-- Ally you need to know about me.
+- All you need to know about me.
 
 
 💡 Fun fact: People Stick around me because of My good Vibes.

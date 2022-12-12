@@ -23,6 +23,8 @@ My Learning journey haven't being easy for me but what keeps me going is my burn
 
 📩 You can view my resume and contact me by emailing ubanicee@gmail.com
 
+<a href="https://mobile.twitter.com/ubanicee">Twitter</a>
+
 <!---
 Ubanimela/Ubanimela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

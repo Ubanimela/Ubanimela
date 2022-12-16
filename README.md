@@ -14,9 +14,12 @@ My Learning journey haven't being easy for me but what keeps me going is my burn
 
 💡 Fun fact: People Stick around me because of My good Vibes.
 
-💻 I'm currently studying at<a href="https://aptech-ng.com/ace/aptech-nigeria.html"> Aptech School of Sofware Engineering</a>  And <a href="https://www.altschoolafrica.com/schools/engineering"> AltSchool  Africa</a>
-
-🌱 I’m currently learning JavaScript, Bootstrap, MySQL and Python.
+💻 I'm currently studying at<a href="https://aptech-ng.com/ace/aptech-nigeria.html"> Aptech School of Sofware Engineering</a>
+🌱 I’m currently learning 
+  JavaScript, 
+  Bootstrap,
+  MySQL and 
+  Python.
 
 😊 I am very committed towards my projects. Also ready to face any challenging projects
     I’m looking for help with open source, internships, and entry-level opportunities.

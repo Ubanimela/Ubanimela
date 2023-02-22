@@ -30,15 +30,15 @@ Based on the contents of the S3 object, you could then update a table.
 
 When building your lambda function to process S3 events, there are a few important best practices to remember.
 
-***First***, to make it simple to grow and try again if required, it's crucial to design your function as stateless and idempotent from the start.\*
+First, to make it simple to grow and try again if required, it's crucial to design your function as stateless and idempotent from the start.
 
-***Second***, handling failures and reporting errors or exceptions is important when processing data.
+Second, handling failures and reporting errors or exceptions is important when processing data.
 
 You may use this to identify and address problems with your function.
 
-***Finally***, it's critical to properly test your function before using it.
+Finally, it's critical to properly test your function before using it.
 
-By simulating S3 events with the AWS Management Console or the AWS Command Line Interface (CLI), you can test your function to make sure it works as expected.
+You can test your function to ensure it works as planned by simulating S3 events with the AWS Management Console or the AWS Command Line Interface (CLI).
 
 Using Amazon Lambda to handle JSON-based events on S3 is a good way to make serverless apps that respond to changes in S3 objects.
 

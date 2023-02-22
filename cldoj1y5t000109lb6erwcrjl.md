@@ -4,7 +4,7 @@ Do you want to be a technical writer or an open-source contributor but don't kno
 
 Or are you already writing but need to improve your skills?
 
-Don't worry, I've put together a list of platforms and course materials that will help you do well as a technical writer.
+Don't worry; I've compiled a list of platforms and course materials to help you do well as a technical writer.
 
 But before we proceed, below are the contents you will understand in this article.
 
@@ -46,7 +46,7 @@ This aspect of writing is mainly done by experts who dive into more complex topi
 
 4.) **Process Documentation Writing**
 
-Process documentation is documenting step-by-step guidelines in a particular task or assignment.
+Process documentation is writing down step-by-step instructions for a job or task.
 
 It involves employee onboarding checklists, performance review guidelines, how-tos on content publishing, customer support guides, and software documentation like API documentation.
 
@@ -68,7 +68,7 @@ It involves employee onboarding checklists, performance review guidelines, how-t
 
 **Technical writing** careers are growing faster than average, at 12%.
 
-The question comes in, how much do technical writers make?
+The question comes in: how much do technical writers make?
 
 Well, the salary range of a technical writer varies.
 
@@ -86,7 +86,7 @@ Here are the few roles technical writers play in an organization:
 
 *• They do extensive research on products and services.*
 
-*• Develop and edit documentation outline.*
+*• Develop and edit a documentation outline.*
 
 *• Organize documentation in the database.*
 
@@ -98,7 +98,7 @@ I looked for free courses on technical writing to help you improve your technica
 
 **Alison** is an Irish online learning platform for higher education, teaching skills for the workplace, and trying out new things. It offers certificate and accredited diploma courses.
 
-It was founded on 21 April 2007 in Galway, Ireland, by Irish social entrepreneur Mike Feerick.
+It was founded on April 21, 2007, by Irish social entrepreneur Mike Feerick, in Galway, Ireland.
 
 ![](https://lh6.googleusercontent.com/lS6dCTCGTLwRT_XB3q2N8KYEgPBQ-nO3vVDYOvMaNRiCfw4xJ0OWq8pbrXJrHSxqyi_qG8IRTIKWQYNM50Xui93IBorkLR3karE4zcIt_YdVS8vKwbqK7QzUchV8ggnH_Y8-m9-S-RyXavCa1Vqd_uE align="center")
 
@@ -106,7 +106,7 @@ Alison offers a free online technical writing course to help you understand tech
 
 2.) [TECHNICALWRITERHQ](https://technicalwriterhq.com/technical-writing-certification/)
 
-**Technical Writer HQ** is the leading community of technical writers that offers candidates worldwide free fundamental courses on technical writing training and programs online.
+**Technical Writer HQ** is the largest community of technical writers. It offers people worldwide free online courses and programs to learn the basics of technical writing.
 
 ![](https://lh6.googleusercontent.com/deTAt6O92jELm24Un1GrpcHppO4PDUtRL721VEMhtSLQU1yLqtoLZ37-jwG-1u8hv5Vs5oj6lYeB4P2_O48p00ss9kATqG8TuyLwM4BpQinNWriKexT86GhSnUZ__yL8ynPvIhW77bA3FLgRE4N5bdA align="center")
 
@@ -114,7 +114,7 @@ Alison offers a free online technical writing course to help you understand tech
 
 **Udemy, Inc.** is a company that uses technology to help people learn and teach online. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar.
 
-They offer Free Introduction to Technical Writing.
+They offer free introductions to technical writing.
 
 ![](https://lh5.googleusercontent.com/tbTqskmn0_E_BPa8Yk6k77J_Giw3XVEmw2XQQl6kt5-7n4VGXbxMF7AoEM5CYATia8N-w0AgtAo0AldDXBxEE619x_SH6RALLbKFtIQcwt4JV1Zk8at27NU-wlVocrtT3opEQWbIrR-VZIUDXhX6Cfg align="center")
 
@@ -126,11 +126,11 @@ You will learn everything you need about technical writing and discover if it's 
 
 ![](https://lh6.googleusercontent.com/wKMiuh9Rv1S-s-WaaFrHxaLQTidl6Wam9094eKiOP3PuhCYPeY8KDsUBfbPYen5UBsuTg9mGPGa-hk_YtXunXroG7mYZnBEdrd7qfODB1UQaJVTXSgniY1jbIcVmCG1yWI_l_aAJIdUJMXanM5MiZVE align="center")
 
-Coursera works with universities and other organizations to offer free online courses, certifications, and degrees in various subjects.
+Coursera works with universities and other groups to offer free online courses, certifications, and degrees in a variety of subjects.
 
-Apply for financial aid on any of their technical writing and kick off your career.
+Apply for financial aid on any of their technical writing projects and kick off your career.
 
-### **Conclusion**
+### **CONCLUSION**
 
 ***Remember that if you want to be a successful technical writer, you will need advanced grammar skills, extensive research methods and practices, a clear and informative writing style, and the ability to make different types of technical documents, such as reports, memos, white papers, instruction manuals, and analyses.***
 

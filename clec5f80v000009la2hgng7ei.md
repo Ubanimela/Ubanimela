@@ -10,16 +10,6 @@ This article will talk about some of the best methods and techniques for debuggi
 
 Here is information regarding my debugging experience that you will read about in this article.
 
-### `TABLE OF CONTENT`
-
-### `Debugging: What is it?`
-
-### `Strategies for Successful Debugging`
-
-### `Guidelines for Effective Debugging`
-
-### `My knowledge of coding and debugging`
-
 ### Debugging: What is it?
 
 In software development, finding and fixing errors, bugs, and other problems in the code is a key part of the debugging process.

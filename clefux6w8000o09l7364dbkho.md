@@ -1,4 +1,4 @@
-# How to use Amazon Lambda to handle Json-based events on S3 in a tutorial
+# How to handle Json-based events on S3 using Amazon Lambda
 
 When used with [Amazon S3](https://aws.amazon.com/s3/), AWS [Lambda](https://en.wikipedia.org/wiki/AWS_Lambda) is a potent tool for creating serverless apps that can handle JSON-based events. It can be useful for several scenarios, such as updating a different database or index depending on changes to S3 items.
 

@@ -8,7 +8,7 @@ Don't worry, I've put together a list of platforms and course materials that wil
 
 But before we proceed, below are the contents you will understand in this article.
 
-**What** **is** **technical** **writing?**
+**WHAT IS TECHNICAL WRITING?**
 
 ![](https://lh6.googleusercontent.com/A6tL5MjnuduzhMW6B8ExKgH_ZF-veTQClvb4k_N957wO65WgHN2SBNdOA2C1Wpvs3CxKMYG03tBNRy6h8UxHSin-Ij-khNQC-5vRfUjJX_KALS2EzMj9u4mnIC6EoB7-NpcfwVmiKeneDdeSpq9gH1c align="center")
 
@@ -30,9 +30,9 @@ Technical writing is grouped into four major categories:
 
 1.) **Technical Writing Communication**
 
-Technical Writing communication is an aspect of writing that deals with marketing communications that covers the area of B2B (business to business) writing.
+Technical communication is an aspect of writing that deals with marketing communications and covers the area of B2B (business-to-business) writing.
 
-The writer uniquely explains business products to raise awareness and help customers understand products and services.
+The writer uniquely explains business products to draw attention and help customers understand them.
 
 2.) **End-User Technical Writing**
 

@@ -8,7 +8,7 @@ Don't worry, I've put together a list of platforms and course materials that wil
 
 But before we proceed, below are the contents you will understand in this article.
 
-**WHAT IS TECHNICAL WRITING?**
+### **WHAT IS TECHNICAL WRITING?**
 
 ![](https://lh6.googleusercontent.com/A6tL5MjnuduzhMW6B8ExKgH_ZF-veTQClvb4k_N957wO65WgHN2SBNdOA2C1Wpvs3CxKMYG03tBNRy6h8UxHSin-Ij-khNQC-5vRfUjJX_KALS2EzMj9u4mnIC6EoB7-NpcfwVmiKeneDdeSpq9gH1c align="center")
 
@@ -24,7 +24,7 @@ So basically, having the ability to explain complex information, documentation, 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675428466175/5ebc12e3-b986-4cdd-854e-4715ce5c7e72.jpeg align="center")
 
-**WHAT ARE THE TYPES OF TECHNICAL WRITING**
+### **WHAT ARE THE TYPES OF TECHNICAL WRITING**
 
 Technical writing is grouped into four major categories:
 
@@ -42,11 +42,11 @@ End-user technical writing is when the writer explains how a product works and h
 
 This writing involves communication written to a knowledgeable audience.
 
-This aspect of writing is mainly written by experts who dive into more complex topics. It includes a research summary, business reports, and scientific outlines.
+This aspect of writing is mainly done by experts who dive into more complex topics. It includes a research summary, business reports, and scientific outlines.
 
 4.) **Process Documentation Writing**
 
-Process documentation is the act of documenting steps by steps guidelines in a particular task or assignment.
+Process documentation is documenting step-by-step guidelines in a particular task or assignment.
 
 It involves employee onboarding checklists, performance review guidelines, how-tos on content publishing, customer support guides, and software documentation like API documentation.
 
@@ -64,11 +64,11 @@ It involves employee onboarding checklists, performance review guidelines, how-t
 
 *•Medical technical writing*
 
-**WHAT IS YOUR CAREER FIELD AS A TECHNICAL WRITER**
+### **WHAT IS YOUR CAREER FIELD AS A TECHNICAL WRITER**
 
 **Technical writing** careers are growing faster than average, at 12%.
 
-The question comes in, how much do Technical writers make?
+The question comes in, how much do technical writers make?
 
 Well, the salary range of a technical writer varies.
 
@@ -76,13 +76,13 @@ According to [Salaryexpert.com](http://Salaryexpert.com), a technical writer's a
 
 ![](https://lh6.googleusercontent.com/Lh8Ns15TTEjXac_7V-7I61XdWLPVQUgxk0Ktvilz6--3MN_mnI3tLbxjLZuNR24FTPfeTA1dglXAIdKrIM9QM-azOf0bc5CnhVyZXjuHl19IiP9ZL2jqoZffnKeAxKrUmDCxI0JJ5_CesNzaC4c58_Q align="center")
 
-**WHAT DOES A TECHNICAL WRITER DO?**
+### **WHAT DOES A TECHNICAL WRITER DO?**
 
 **Technical writers** help businesses move quickly with their sales, documentation, products, and services.
 
 Here are the few roles technical writers play in an organization:
 
-*• Technical writer helps plan documentation procedures in a company.*
+*• A technical writer helps plan documentation procedures in a company.*
 
 *• They do extensive research on products and services.*
 
@@ -90,7 +90,7 @@ Here are the few roles technical writers play in an organization:
 
 *• Organize documentation in the database.*
 
-**ONLINE PLATFORMS THAT OFFER FREE COURSES ON TECHNICAL WRITING**
+### **ONLINE PLATFORMS THAT OFFER FREE COURSES ON TECHNICAL WRITING**
 
 I looked for free courses on technical writing to help you improve your technical writing and communication skills.
 

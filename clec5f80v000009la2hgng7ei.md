@@ -144,4 +144,4 @@ I was persistent, thorough, and patient.
 
 ***Thank you for reading. If you like what you read, please follow me and sign up for my email.***
 
-**LINK UP ON MY** [**UPWORK PROFILE LINK**](https://www.upwork.com/freelancers/~01988e349515b99aa9)
+**LINK UP ON** [**UPWORK**](https://www.upwork.com/freelancers/~01988e349515b99aa9)

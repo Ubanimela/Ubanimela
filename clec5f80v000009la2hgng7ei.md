@@ -24,7 +24,7 @@ Here is information regarding my debugging experience that you will read about i
 
 In software development, finding and fixing errors, bugs, and other problems in the code is a key part of the debugging process.
 
-Effective debugging can make the difference between an application that runs smoothly and one that crashes often, which can cost time, effort, and possibly a lot of money.
+Effective debugging can make the difference between an application that runs smoothly and crashes often, which can cost time, effort, and possibly a lot of money.
 
 Debugging identifies and resolves errors, defects, and other program performance issues.
 
@@ -143,3 +143,5 @@ I was persistent, thorough, and patient.
 ***But if you are thorough, persistent, and patient, you can determine where the problem is coming from and how to fix it.***
 
 ***Thank you for reading. If you like what you read, please follow me and sign up for my email.***
+
+**LINK UP ON MY** [**UPWORK PROFILE LINK**](https://www.upwork.com/freelancers/~01988e349515b99aa9)

@@ -10,7 +10,7 @@ tags: software-development, developer, debugging, debuggingfeb, debuggingfeb-wri
 
 ---
 
-I'm participating in the #DebuggingFeb [Writeathon](https://townhall.hashnode.com/debugging-feb-writeathon) to share my expertise in debugging numerous programs.
+I'm participating in the #[DebuggingFeb Writeathon](https://www.upwork.com/freelancers/~01988e349515b99aa9?viewMode=1) to share my expertise in debugging numerous programs.
 
 I had a lot of [trouble](https://www.upwork.com/freelancers/~01988e349515b99aa9?viewMode=1) debugging my code when I started as a front-end developer, so I got weary of it.
 
